@@ -1,6 +1,5 @@
 ### Hey, I'm Jason (aka. LamaCap)
 
-Hello 👋 My name is Jason Rietzke, also known as LamaCap.
 I like programming and scientific topics in general. I often develop Apps for iOS in Swift and I love using SwiftUI.
 
 <br>
