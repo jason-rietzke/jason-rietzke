@@ -28,11 +28,6 @@ Also I'm streaming some of my work on [Twitch] sometimes. Just drop by when you 
 <a href="https://www.twitch.tv/lamacap"><img src="/icons/twitch.png" height=30></img></a>
 </p>
 
----
-
-<img style="width: 500px; margin-left: calc(50% - 250px)" src="https://github-readme-stats.vercel.app/api?username=jason-rietzke&title_color=22aaff&icon_color=22aaff&show_icons=true"/>
-
-
 
 [Twitch]: https://www.twitch.tv/lamacap
 [Twitter]: https://twitter.com/JasonRietzke
