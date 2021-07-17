@@ -8,6 +8,7 @@ I'm Jason (aka. LamaCap) and I'm a computer science major. I love programming an
 	<a href="https://www.twitch.tv/lamacap"><img alt="Twitch" src="./icons/Twitch.svg" height=60></img></a>
 </div>
 
+<hr>
 
 ### About Me
 
