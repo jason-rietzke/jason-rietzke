@@ -3,12 +3,11 @@
 I'm Jason (aka. LamaCap) and I'm a computer science major. I love programming and delving into scientific topics.
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/jason-rietzke"><img src="./icons/linkedin.png" height=40></img></a>
-	<a href="https://twitter.com/JasonRietzke"><img src="./icons/twitter.png" height=40></img></a>
-	<a href="https://www.twitch.tv/lamacap"><img src="./icons/twitch.png" height=40></img></a>
+	<a href="https://www.linkedin.com/in/jason-rietzke"><img alt="LinkedIn" src="./icons/LinkedIn.svg" height=60></img></a>
+	<a href="https://twitter.com/JasonRietzke"><img alt="Twitter" src="./icons/Twitter.svg" height=60></img></a>
+	<a href="https://www.twitch.tv/lamacap"><img alt="Twitch" src="./icons/Twitch.svg" height=60></img></a>
 </div>
 
-<hr>
 
 ### About Me
 
