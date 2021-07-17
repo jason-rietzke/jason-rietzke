@@ -12,7 +12,7 @@ I'm Jason (aka. LamaCap) and I'm a computer science major. I love programming an
 
 ### About Me
 
-In addition to my studies, I am a software developer for artificial intelligence platforms at [LiveReader](https://github.com/livereader). There I am focused on Symbolic-AI, but am very interested in expanding my knowledge in this very exciting area. Neural networks, GANs, and NLP are definitely on my to-do list 📝.
+In addition to my studies, I am a software engineer for artificial intelligence platforms at [LiveReader](https://github.com/livereader). There I am focused on Symbolic-AI, but am very interested in expanding my knowledge in this very exciting area. Neural networks, GANs, and NLP are definitely on my to-do list 📝.
 
 
 ### My Projects
@@ -20,7 +20,7 @@ In addition to my studies, I am a software developer for artificial intelligence
 I develop services and applications for a wide variety of purposes and many different programming languages. Most of them are private or corporate projects, but I would like to increase the number of open source projects in the future, as I really like the basic idea of sharing knowlage 🙂.
 
 I've done a lot of development with Swift, created and published a few apps and am a big fan of the SwiftUI framework.
-Playing around with microcontrollers like Arduino & Co is also one of my passions. Building my own SmartHome Accesspries with them is a lot of fun for me. I also like to play around with the Twitch API to create interesting bots and streamoverlays.
+Playing around with microcontrollers like Arduino & Co is also one of my passions. Building my own SmartHome Accessories with them is a lot of fun for me. I also like to play around with the Twitch API to create interesting bots and streamoverlays.
 
 <hr>
 
