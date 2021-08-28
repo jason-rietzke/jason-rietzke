@@ -21,7 +21,7 @@ With growing experience, I got more and more into software engineering and shift
 
 ### My Projects
 
-I develop services and applications for a wide variety of purposes and many different programming languages. Most of them are private or corporate projects, but I would like to increase the number of open source projects in the future, as I really like the basic idea of sharing knowlage 🙂.
+I develop services and applications for a wide variety of purposes and many different programming languages. Most of them are private or corporate projects, but I would like to increase the number of open source projects in the future, as I really like the basic idea of sharing knowledge 🙂.
 
 Playing around with microcontrollers like Arduino & Co is also one of my passions. Building my own SmartHome Accessories with them is a lot of fun for me. I also like to play around with the Twitch API to create interesting bots and streamoverlays.
 
