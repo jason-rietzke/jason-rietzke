@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I'm Jason (aka. LamaCap) and I'm a computer science major. I love programming and delving into scientific topics.
+I'm Jason and I'm a computer science major. I love programming and delving into scientific topics.
 
 <div align="center">
 	<a href="https://www.linkedin.com/in/jason-rietzke"><img alt="LinkedIn" src="./icons/LinkedIn.svg" height=60></img></a>
@@ -23,7 +23,7 @@ With growing experience, I got more and more into software engineering and shift
 
 I develop services and applications for a wide variety of purposes and many different programming languages. Most of them are private or corporate projects, but I would like to increase the number of open source projects in the future, as I really like the basic idea of sharing knowledge 🙂.
 
-Playing around with microcontrollers like Arduino & Co is also one of my passions. Building my own SmartHome Accessories with them is a lot of fun for me. I also like to play around with the Twitch API to create interesting bots and streamoverlays.
+Playing around with microcontrollers like Arduino & Co is also one of my passions. Building my own SmartHome Accessories with them is a lot of fun for me.
 
 <hr>
 
