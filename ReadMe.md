@@ -29,7 +29,7 @@ Playing around with microcontrollers like Arduino & Co is also one of my passion
 
 ### Contact Me
 
-Feel free to contact me on [LinkedIn] or [Twitter] and stop by when I'm streaming some of my developments on [Twitch] if you are interested.
+Feel free to contact me on [LinkedIn] or [Twitter].
 
 
 [Twitch]: https://www.twitch.tv/lamacap
