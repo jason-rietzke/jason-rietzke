@@ -5,7 +5,6 @@ I'm Jason and I'm a computer science major. I love programming and delving into 
 <div align="center">
 	<a href="https://www.linkedin.com/in/jason-rietzke"><img alt="LinkedIn" src="./icons/LinkedIn.svg" height=60></img></a>
 	<a href="https://twitter.com/JasonRietzke"><img alt="Twitter" src="./icons/Twitter.svg" height=60></img></a>
-	<a href="https://www.twitch.tv/lamacap"><img alt="Twitch" src="./icons/Twitch.svg" height=60></img></a>
 </div>
 
 <hr>
@@ -32,7 +31,6 @@ Playing around with microcontrollers like Arduino & Co is also one of my passion
 Feel free to contact me on [LinkedIn] or [Twitter].
 
 
-[Twitch]: https://www.twitch.tv/lamacap
 [Twitter]: https://twitter.com/JasonRietzke
 [LinkedIn]: https://www.linkedin.com/in/jason-rietzke
 
