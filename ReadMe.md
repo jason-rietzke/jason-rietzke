@@ -3,11 +3,8 @@
 I'm Jason and I'm a computer science major. I love programming and delving into scientific topics.
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/jason-rietzke"><img alt="LinkedIn" src="./icons/LinkedIn.svg" height=60></img></a>
-	<a href="https://twitter.com/JasonRietzke"><img alt="Twitter" src="./icons/Twitter.svg" height=60></img></a>
+<img src="https://streak-stats.demolab.com?user=jason-rietzke&theme=github-dark-blue&hide_border=true&mode=daily" alt="GitHub Streak" style="width: 50%; height: auto; margin: 0 auto; display: block;">
 </div>
-
-<hr>
 
 ### About Me
 
