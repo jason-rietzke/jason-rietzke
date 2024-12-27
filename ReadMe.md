@@ -1,25 +1,34 @@
-## Hey 👋
+# 👋 Hey
 
-I'm Jason and I'm a computer science major. I love programming and delving into scientific topics.
+## About Me
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=jason-rietzke&theme=github-dark-blue&hide_border=true&mode=daily" alt="GitHub Streak" style="width: 50%; height: auto; margin: 0 auto; display: block;">
-</div>
+Hi, I’m Jason—a software engineer with a focus on system development and a fascination for building efficient, reliable software.
+I started with programming at an early age and have since honed my skills across various technologies and languages.
 
-### About Me
+Currently, I’m the Head of Development at [LiveReader], where I work on Symbolic-AI for the [Notitia] platform as well as on Speech-Processing for the [Alternis] project.
+My day-to-day involves designing systems, solving complex technical challenges, and ensuring our projects are scalable and maintainable.
 
-Even in my early childhood, I was fascinated by tech and started programming at 12. Since then I have had a strong interest in development and got regularly sidetracked by 3D-Printing, Microcontrollers, and such topics – Computer Science became my passion.
+I’ve worked with multiple programming languages throughout my career, and recently, I’ve been diving deeper into Rust.
+Its focus on safety and performance has been both challenging and rewarding, aligning well with my commitment to creating robust systems.
 
-I taught programming myself, primarily with iOS development using Swift. In this time I developed numerous Apps and published two of them. Especially SwiftUI took my attention and I find the declarative approach very interesting.
+## What I’m Into
 
-With growing experience, I got more into software engineering and shifted my focus toward conceptualizing and designing systems. 
-Currently, I'm primarily working on the development of Symbolic-AI at [LiveReader](https://github.com/livereader) for the Notitia project. 
+-   **System Development**: Architecting and building scalable solutions for modern challenges.
+-   **Programming**: Constantly exploring new languages and paradigms—Rust has been particularly exciting lately.
+-   **Artificial Intelligence**: Pushing the boundaries of symbolic reasoning and intelligent systems.
+-   **Hands-On Tech**: I love experimenting with hardware, microcontrollers, and emerging tech.
 
-<hr>
+## My Open Source Work
 
-### Contact Me
+I’m passionate about contributing to the open-source community and have developed the [Graphly D3](https://github.com/livereader/graphly-d3) library—a powerful tool for creating interactive, data-driven graph visualizations using D3.js. It’s designed to simplify the process of building complex visualizations for web applications.
 
-Feel free to contact me on [Mastodon] or [LinkedIn].
+Looking ahead, I’m eager to expand my involvement in open-source projects, collaborate with other developers, and share more tools and ideas with the community.
 
-[Mastodon]: https://c.im/@jason_rietzke
+## Let’s Connect
+
+I’m always open to connecting with like-minded people in tech. Feel free to reach out on [LinkedIn].
+
+[LiveReader]: https://livereader.com
+[Notitia]: https://livereader.com/notitia
+[Alternis]: https://livereader.com/alternis
 [LinkedIn]: https://www.linkedin.com/in/jason-rietzke
